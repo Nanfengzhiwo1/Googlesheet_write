@@ -17,7 +17,7 @@
 > 3. *After modifying the code,you can change the title to what you want*.
 
 
-3.replace parameters in python file,**[your.json](https://docs.gspread.org/en/latest/oauth2.html#enable-api-access-for-a-project)**,**[yours sheet key](https://github.com/Nanfengzhiwo1/googlesheet_write/assets/107869748/520c7be3-2a87-425b-aa59-5528df7cf13a)**,**Typename**,**SubmittedBy**,**Description**,**Image_list** and **Tab_name**
+3.replace parameters in python file, **[your.json](https://docs.gspread.org/en/latest/oauth2.html#enable-api-access-for-a-project)** , **[yours sheet key](https://github.com/Nanfengzhiwo1/googlesheet_write/assets/107869748/520c7be3-2a87-425b-aa59-5528df7cf13a)** , **Typename** , **SubmittedBy** , **Description** , **Image_list**  and  **Tab_name**
 ![image](https://github.com/Nanfengzhiwo1/googlesheet_write/assets/107869748/85f78ae9-74f1-4310-9275-ea0201ab4538)
 ![image](https://github.com/Nanfengzhiwo1/googlesheet_write/assets/107869748/b52e6ea8-9840-4639-a0ef-8aaced5bde4b)
 
